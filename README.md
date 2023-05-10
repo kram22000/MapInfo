@@ -1,2 +1,1 @@
-# MapInfo
-Map Information
+# MapFrontEndApp
